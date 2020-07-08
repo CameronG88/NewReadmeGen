@@ -1,0 +1,23 @@
+{
+  "name": "newreadmegen",
+  "version": "1.0.0",
+  "description": "read me generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CameronG88/NewReadmeGen.git"
+  },
+  "author": "Cameron Graham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CameronG88/NewReadmeGen/issues"
+  },
+  "homepage": "https://github.com/CameronG88/NewReadmeGen#readme",
+  "dependencies": {
+    "inquirer": "^7.3.0",
+    "util": "^0.12.3"
+  }
+}
