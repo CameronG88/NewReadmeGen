@@ -49,13 +49,14 @@ function promptUser() {
                     "Unlicensed"
                 ]
             },
+            // Ask how others can contribute
             {
                 type: "input",
                 name: "contribute",
                 message: "How can others contribute to this project?"
             },
             {
-                // Ask for github username to put into github url.
+                // Ask for github username to put into github url and email.
                 type: "input",
                 name: "github",
                 message: "What's your github username?"
